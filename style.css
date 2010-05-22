@@ -1,0 +1,16 @@
+/*
+Theme Name: Rob Golding
+Theme URI: http://www.robgolding.com/blog
+Description: The custom theme running at robgolding.com
+Author: Rob Golding
+Author URI: http://www.robgolding.com
+*/
+
+@import "style/css/reset.css";
+
+/*
+@import "style/css/typography.css";
+@import "style/css/layout.css";
+*/
+
+@import "style/css/style.css";
